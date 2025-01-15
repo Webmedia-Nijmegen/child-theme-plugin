@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Child Theme Creator
-Plugin URI: https://example.com
+Plugin URI: https://webmedia-nijmegen.nl
 Description: Een plugin om een child theme te genereren en te activeren.
 Version: 1.0
-Author: Jouw Naam
-Author URI: https://example.com
+Author: Webmedia - Nijmegen B.V.
+Author URI: https://webmedia-nijmegen.nl
 License: GPL2
 */
 
